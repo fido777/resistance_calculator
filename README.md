@@ -1,16 +1,7 @@
-# resistance_calculator
+# Resistance Calculator
 
-A new Flutter project.
+Calcula el valor de la resistencia, de 4, 5 o 6 bandas. Además ofrece una guía de cómo leer su valor por cada banda.
 
-## Getting Started
+La imagen primera cambia de forma dinámica con la selección de las bandas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/2f261f2b-8187-43f5-a0c8-95c1b1e130ca)
